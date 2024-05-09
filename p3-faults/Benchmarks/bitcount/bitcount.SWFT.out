@@ -1,0 +1,5 @@
+Bit counter algorithm benchmark
+
+**Possible soft-error detected due to data corruption (1).
+exit 75
+RunSafely.sh detected a failure with these command-line arguments:  60 1 /dev/null bitcount.SWFT.out ./bitcount.SWFT 1125000

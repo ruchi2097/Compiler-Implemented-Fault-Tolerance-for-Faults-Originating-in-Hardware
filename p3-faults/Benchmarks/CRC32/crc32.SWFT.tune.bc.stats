@@ -1,0 +1,8 @@
+SWFTadd,274
+Functions,6
+cfgEdges,40
+Instructions,425
+Loads,16
+Stores,4
+cfgEdgeCoverage,22
+instCoverage,119

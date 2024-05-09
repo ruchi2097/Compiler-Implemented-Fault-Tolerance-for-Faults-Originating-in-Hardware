@@ -1,0 +1,4 @@
+nbody = 11000, numnodes = 1
+**Possible soft-error detected due to data corruption (1).
+exit 75
+RunSafely.sh detected a failure with these command-line arguments:  60 1 /dev/null bh.SWFT.out ./bh.SWFT 11000 1

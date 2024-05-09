@@ -1,0 +1,6 @@
+Matrix Multiplication Kernel (1024x1024)
+Phase 2
+Native Matrix Multiplication
+**Possible soft-error detected due to control flow into block 5 (0). Exiting program.
+exit 75
+RunSafely.sh detected a failure with these command-line arguments:  60 1 /dev/null smatrix.SWFT.out ./smatrix.SWFT 1024

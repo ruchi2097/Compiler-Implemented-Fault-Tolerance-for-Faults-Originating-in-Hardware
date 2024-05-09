@@ -1,0 +1,10 @@
+Hello world--Doing em3d with args 160000 15 88 4
+making tables 
+making neighbors
+updating from and coeffs
+filling from fields
+localizing coeffs, from_nodes
+cleanup for return now
+**Possible soft-error detected due to control flow into block 2 (0). Exiting program.
+exit 75
+RunSafely.sh detected a failure with these command-line arguments:  60 1 /dev/null em3d.SWFT.out ./em3d.SWFT 160000 15 88
